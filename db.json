@@ -1,0 +1,10 @@
+{
+  "releases": [
+    {
+      "releaseName": "Test",
+      "releaseDate": "Test",
+      "releaseDescription": "Test",
+      "id": 2
+    }
+  ]
+}
